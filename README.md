@@ -1,4 +1,5 @@
-A simple command-line application.
+# dart_event_bus
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+This is just a playful project to test the libraries below
+- [event_bus](https://pub.dev/packages/event_bus)
+- [get_it](https://pub.dev/packages/get_it)
